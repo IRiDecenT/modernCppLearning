@@ -1,1 +1,3 @@
 # modernCppLearning
+
+Effective Modern C++
